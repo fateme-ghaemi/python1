@@ -1,0 +1,13 @@
+>>> r=3
+>>> h=12
+>>> pi=3.14
+>>> msahat_janebi=r*h*pi*2
+>>> msahat_dayre=r*r*pi
+>>> hajm=msahat_dayre*h
+>>> msahat_kl=msahat_janebi+2*msahat_dayre
+>>> print(msahat_janebi)
+226.08
+>>> print(hajm)
+339.12
+>>> print(msahat_kl)
+282.6

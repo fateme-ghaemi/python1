@@ -1,0 +1,5 @@
+>>> ghaede=4
+>>> ertefa=10
+>>> msahat=ghaede*ertefa/2
+>>> print(msahat)
+20.0
